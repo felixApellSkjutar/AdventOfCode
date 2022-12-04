@@ -1,4 +1,6 @@
 # AdventOfCode
 https://adventofcode.com/
 
-My contributions to Advent of Code 2020 and 2021. I write in python but use other languages in the future.
+My contributions to Advent of Code 2020 - 2022.
+
+Written in Python3.
